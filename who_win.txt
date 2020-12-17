@@ -1,0 +1,3 @@
+player1 : lose	player2 : win
+player1 : win	player2 : lose
+player1 : win	player2 : lose
